@@ -4,7 +4,6 @@ import random
 import numpy as np
 from openai import OpenAI
 
-#openai_api = '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'
 openai_api = 'sk-REDACTED_FOR_PRIVACY'
 client = OpenAI(api_key=openai_api)
 
