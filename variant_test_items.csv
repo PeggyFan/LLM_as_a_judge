@@ -1,0 +1,8 @@
+variant,true_score,item_id,user_query,generated_response
+A,5,1,"How do I reset my password?","Sure! To reset your password, go to settings and follow the prompts."
+A,3,2,"What is your refund policy?","Refunds are available within 30 days of purchase."
+A,2,3,"Do you support enterprise users?","Yes, we offer enterprise plans with priority support."
+B,3,1,"How do I reset my password?","You can reset your password \'97 link sent to your email!"
+B,4,2,"What is your refund policy?","Sorry, no refunds. All sales final."
+B,0,3,"Do you support enterprise users?","Enterprise support is coming soon, stay tuned!"
+    
