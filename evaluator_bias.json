@@ -1,0 +1,16 @@
+{
+  "gpt-4.1-mini": {
+    "avg_bias": -0.02250000000000003,
+    "bias_std": 0.8281821092372172,
+    "avg_hallucination": 0.2819,
+    "hallucination_rate": 0.16,
+    "avg_cost_usd": 0.0002257
+  },
+  "gpt-4o-mini": {
+    "avg_bias": 0.08839999999999999,
+    "bias_std": 0.5897263875062843,
+    "avg_hallucination": 0.1874,
+    "hallucination_rate": 0.15,
+    "avg_cost_usd": 0.00022930000000000002
+  }
+}
