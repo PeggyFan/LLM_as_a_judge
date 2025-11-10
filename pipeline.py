@@ -4,7 +4,7 @@ import random
 import numpy as np
 from openai import OpenAI
 
-openai_api = 'sk-REDACTED_FOR_PRIVACY'
+openai_api = ''
 client = OpenAI(api_key=openai_api)
 
 
